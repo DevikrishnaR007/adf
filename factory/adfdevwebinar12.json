@@ -1,0 +1,9 @@
+{
+	"name": "adfdevwebinar12",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3c0469e-0d9d-4d04-a5c6-7720f5e322c5",
+		"tenantId": "3c9a95b3-9291-4ed2-9677-13948a6e69d0"
+	}
+}
