@@ -1,0 +1,9 @@
+{
+	"name": "adfdevwebinar09",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c197e7ec-5e64-4368-971b-6645d15f5b94",
+		"tenantId": "3c9a95b3-9291-4ed2-9677-13948a6e69d0"
+	}
+}
